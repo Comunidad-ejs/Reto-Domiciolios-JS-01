@@ -4,14 +4,16 @@ Reto basado en js para practicar asincronismo, scopes y logica en la solucion de
 
 ## Ejecucion
 
-```
+``` 
 npm run start
 ```
 
 ### Primer problema
+
 Corregir el tipo de asignacion adecuada para cada variable.
 
 ### Segundo problema
+
 Crea una función llamada "randomTime" que te permita retornar un valor en mili segundos de forma aleatoria en el rango de 1000ms hasta 8000ms.
 
 * Completa la función "orders" y capturar el error segun corresponda.
@@ -53,5 +55,12 @@ realizar una vista sencilla de pedidos para recibir y despachar los pedidos.
 
 Debes de crear un "Fork" de este proyecto, revolver los problemas y crear un Pull Request hacia este repositorio.
 
+y ejecute el
+
+´´´
+npm install
+´´´
+
 # Licencia
+
 escuelajs-reto-04 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
