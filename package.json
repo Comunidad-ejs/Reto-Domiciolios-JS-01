@@ -1,0 +1,30 @@
+{
+  "name": "reto-domiciolios-js-01",
+  "version": "1.0.0",
+  "description": "Reto de asincronismo Js simulando despacho de domicilios",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejozepol/Reto-Domiciolios-JS-01.git"
+  },
+  "keywords": [
+    "reto",
+    "asincronismo",
+    "js"
+  ],
+  "author": "Alejandro López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejozepol/Reto-Domiciolios-JS-01/issues"
+  },
+  "homepage": "https://github.com/alejozepol/Reto-Domiciolios-JS-01#readme",
+  "dependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
