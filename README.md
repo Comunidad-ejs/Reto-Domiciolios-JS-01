@@ -57,9 +57,9 @@ Debes de crear un "Fork" de este proyecto, revolver los problemas y crear un Pul
 
 y ejecute el
 
-´´´
+``` 
 npm install
-´´´
+```
 
 # Licencia
 
