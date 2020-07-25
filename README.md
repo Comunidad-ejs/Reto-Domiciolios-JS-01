@@ -63,4 +63,4 @@ npm install
 
 # Licencia
 
-escuelajs-reto-04 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+[MIT](https://opensource.org/licenses/MIT).
